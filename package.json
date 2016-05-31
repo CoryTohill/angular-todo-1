@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "Intro to Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nss-day-cohort-13/angular-todo.git"
+  },
+  "author": "Ryan Tanay <rtanay@gmail.com> (http://portfolio.ryantanay.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nss-day-cohort-13/angular-todo/issues"
+  },
+  "homepage": "https://github.com/nss-day-cohort-13/angular-todo#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}

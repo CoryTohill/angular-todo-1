@@ -1,0 +1,17 @@
+{
+  "name": "angular-todo",
+  "description": "Intro to Angular",
+  "main": "index.js",
+  "authors": [
+    "Ryan Tanay <rtanay@gmail.com> (http://portfolio.ryantanay.com/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nss-day-cohort-13/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
